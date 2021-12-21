@@ -1,0 +1,7 @@
+id subj_name 
+0 Math 
+1 Phys 
+2 Rus 
+3 Eng 
+5 Watch 
+6 Mouse 
